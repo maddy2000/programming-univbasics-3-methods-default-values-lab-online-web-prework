@@ -5,4 +5,4 @@ puts "a plate of #{protein} with #{veg1} #{veg2}."
 end
 # > a plate of meat with broccoli and macaroni
 
-meal_choice()
+meal_choice("broccli," "Macaroni" "tofu")
