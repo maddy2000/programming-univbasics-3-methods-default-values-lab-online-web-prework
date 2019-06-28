@@ -4,3 +4,4 @@ puts "what a nutritious meal!"
 puts "a plate of #{protein} with #{veg1} #{veg2}."
 end
 # > a plate of meat with broccoli and macaroni
+
